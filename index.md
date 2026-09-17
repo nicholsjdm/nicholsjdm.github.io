@@ -16,5 +16,5 @@ Projects prove skill. Principles and the ethical write-ups prove how I decide. I
 - [Projects](projects.md)
 - [Spiritual principles](principles.md)
 - [Ethical dilemma](ethics.md)
-- [Reflection](reflection.md)
+- [Reflections on Faith and Tech](reflection.md)
 - [Resume](resume.md)
