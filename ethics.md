@@ -26,12 +26,13 @@ The drive was wiped and the workstation rebuilt. Passwords on that machine were 
 ## Analysis
 
 The isolate call followed professional incident-response practice. NIST-style response is prepare, detect, contain, eradicate, recover, and document. Containment exists because curiosity is not a control. 
-Leaving the host up for a cleaner C2 picture would have served my report more than the user. Possible clinical data in a keylog raises a duty to limit harm. My supervisor made the right call. Principle 3: just because I can watch longer does not mean I should.
+Leaving the host up for a cleaner C2 picture would have served my report more than the user. Possible clinical data in a keylog raises a duty to limit harm. My supervisor made the right call. This follows with my spiritual principle of "Power under covenant" which means "just because I can watch longer does not mean I should.
 
-Reading the keylog was necessary and also a privacy line. I cannot assess impact if I refuse to look. I also cannot treat the file like entertainment. Minimum necessary, then stop. That matches stewardship (D&C 104) and protect agency and reduce harm. 
-I refused three assumptions: that the user was foolish or lying, that DNS blocking the domain later meant nothing left, and that I get to read everything because I am the tech.
+Reading the keylog was necessary and also a privacy boundary line. I cannot assess impact if I refuse to look but I also cannot treat the file like entertainment. Minimum necessary inspection to determine private data, then stop. 
+This matches our role as stewards (D&C 104) and my mission statement to protect agency and reduce harm. 
+I refused three assumptions. First, that the user was foolish or lying. Second, that DNS blocking the domain later meant nothing left. Finally, that I get to read everything because I am the tech.
 
-What I learned: the person on that PC, and whoever’s information was in the log, pays if we wait for a prettier picture of the attacker. Evidence still matters. People matter more. Not the hashes. The choice.
+What I learned: the person on that PC, and whoever’s information was in the log, pays if we wait for a prettier picture of the attacker. Although evidence matters. people matter more. 
 
 ## References
 
