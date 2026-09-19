@@ -44,4 +44,4 @@ Each write-up is what I did and how the three principles showed up. No client na
 
 ## Also in progress
 
-**Proxmox home lab.** After-hours practice so I do not learn only on a customer’s machine. Still being built. Same rule: test off production.
+**Proxmox home lab.** After-hours practice so I do not learn only on a customer’s machine. Still being built. 
