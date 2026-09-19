@@ -12,9 +12,12 @@ I came from fire investigation into IT. I respond to phishing, malware, and acco
 
 Projects prove skill. Principles and the ethical write-ups prove how I decide. I am the same person on a ticket and in the rest of my life.
 
+## Spiritual Progression:
+- [Spiritual principles](principles.md)
+- [Reflections on Faith and Tech](reflection.md)
+- [Ethical dilemma](ethics.md)
+
+## Professional Growth
+- [Resume](resume.md)
 - [Skills and certifications](skills.md)
 - [Projects](projects.md)
-- [Spiritual principles](principles.md)
-- [Ethical dilemma](ethics.md)
-- [Reflections on Faith and Tech](reflection.md)
-- [Resume](resume.md)
