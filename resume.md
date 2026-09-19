@@ -3,13 +3,15 @@ title: Resume
 ---
 
 # Jeremy Nichols
+Purpose: protect agency and reduce harm.
 MSP Support / Cybersecurity  
 Wichita Falls, Texas  
 nicholsjdm@gmail.com
 
 ## Summary
-Support technician moving into SOC / DFIR work. CompTIA A+, Network+, Security+, and CySA+. Incident response at an MSP, including malware, phishing, and a documented keylogger / remote-access case. Background in fire investigation. 
-Purpose: protect agency and reduce harm.
+Support technician moving into SOC / DFIR work. CompTIA A+, Network+, Security+, and CySA+. 
+Technical support, triage, and incident response at an MSP. Background in fire investigation. 
+
 
 ## Experience
 
@@ -23,10 +25,11 @@ Web Fire Communications — November 2024 to present
 
 ### Customer Service Agent
 Envoy Air, Wichita Falls Airport — March 2023 to November 2024
-- High-pressure operations, physical security awareness, FAA-audit environment
+- High-pressure and timed operations, physical security awareness, FAA-audit environment
 
 ### Fire Inspector / Investigator
 Vista Fire Department, Vista, California — July 2019 to February 2023
+- Oversee, manage, and perform state-mandated annual inspections program for entire jurisdiction
 - Inspections and origin-and-cause investigations
 - Documentation, witness statements, root-cause thinking now used in IR
 
