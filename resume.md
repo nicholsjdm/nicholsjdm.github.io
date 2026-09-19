@@ -3,13 +3,15 @@ title: Resume
 ---
 
 # Jeremy Nichols
-Purpose: protect agency and reduce harm.
 MSP Support / Cybersecurity  
 Wichita Falls, Texas  
 nicholsjdm@gmail.com
 
 ## Summary
+**Purpose:** protect agency and reduce harm.
+
 Support technician moving into SOC / DFIR work. CompTIA A+, Network+, Security+, and CySA+. 
+
 Technical support, triage, and incident response at an MSP. Background in fire investigation. 
 
 
