@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | default: site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+</head>
+<body>
+  <div class="wrapper">
+    <header>
+      <h1><a href="{{ '/' | relative_url }}">{{ site.title | default: "Jeremy Nichols" }}</a></h1>
+      <p>{{ site.description }}</p>
+
+      <p><strong>Professional Growth</strong></p>
+      <p>
+        <a href="{{ '/' | relative_url }}">Home</a><br>
+        <a href="{{ '/resume' | relative_url }}">Résumé</a><br>
+        <a href="{{ '/skills' | relative_url }}">Skills</a><br>
+        <a href="{{ '/projects' | relative_url }}">Projects</a>
+      </p>
+
+      <p><strong>Spiritual Progression</strong></p>
+      <p>
+        <a href="{{ '/principles' | relative_url }}">Principles</a><br>
+        <a href="{{ '/ethics' | relative_url }}">Ethical dilemma</a><br>
+        <a href="{{ '/reflection' | relative_url }}">Reflection</a>
+      </p>
+    </header>
+
+    <section>
+      {{ content }}
+    </section>
+  </div>
+</body>
+</html>
