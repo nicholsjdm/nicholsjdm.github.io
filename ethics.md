@@ -34,6 +34,20 @@ I refused three assumptions. First, that the user was foolish or lying. Second, 
 
 What I learned: the person on that PC, and whoever’s information was in the log, pays if we wait for a prettier picture of the attacker. Although evidence matters. people matter more. 
 
+
+## Alternative approach
+
+The essential principles here are honesty, responsibility to protect people, and privacy.
+
+If I ran this again, I would isolate as soon as I saw an attempted connection to an unknown foreign address. I would not wait for my supervisor to make that call. Protecting the client and their data comes before reverse-engineering the malware.
+
+This was my first time seeing something like this and felt curiosity and panic when the indicators were discovered. That experience made me faster at naming the priority, which is “contain first, then analyze.” I used to treat the NIST incident-response steps as a straight line. They are not. The steps cycle. Analysis can happen before and after containment.
+
+This approach is better for everyone because seconds matter. It can be the difference between private data staying put and hundreds of people’s information getting leaked. It also shows the organization will not use a customer’s machine as a sandbox which builds trust. It is better to accept the cost of losing some live telemetry so we can protect the client and their customers. That is the highest priority.
+
+After this case I knew a playbook had to be created. It is how those technical steps and these principles are passed to the team, so we are better, faster, and more consistent under stress, and so we serve the client instead of our own curiosity.
+
+
 ## References
 
 National Institute of Standards and Technology. (2012). *Computer security incident handling guide* (SP 800-61 Rev. 2). https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final
