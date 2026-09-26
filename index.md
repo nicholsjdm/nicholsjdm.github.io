@@ -21,3 +21,4 @@ Projects prove skill. Principles and the ethical write-ups prove how I decide. I
 - [Resume](resume.md)
 - [Skills and certifications](skills.md)
 - [Projects](projects.md)
+- [Playbook refinement](refinement.md)
