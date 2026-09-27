@@ -30,7 +30,7 @@ The attributes I am trying to keep in the work are honesty, humility, charity, d
 
 ## Warning signs
 
-I know I am drifting when the ticket becomes bread only. I finish it fast, look competent, collect the hours. I know I am drifting when curiosity wants the live device left up so I can watch command-and-control a little longer. That is akin to the temple jump. I know I am drifting when a tool is in my hands and the thought is “just look” or “whatever, just run it” because I can. I know I am drifting when I talk in a way that makes a coworker or a customer feel stupid for not knowing what I know. The transformation and drift start as a feeling that only I can feel a correct within my own heart.
+I know I am drifting when the ticket becomes bread only. I finish it fast, look competent, collect the hours. I know I am drifting when curiosity wants the live device left up so I can watch command-and-control a little longer. That is akin to the temple jump. I know I am drifting when a tool is in my hands and the thought is “just look” or “whatever, just run it” because I can. I know I am drifting when I talk in a way that makes a coworker or a customer feel stupid for not knowing what I know. The transformation and drift starts as a feeling that only I can feel a correct within my own heart.
 
 ## Realignment
 
