@@ -16,6 +16,12 @@ The second is the high point of the temple in Jerusalem. Satan tells Him to thro
 
 The third is a high place and all the kingdoms as far as the eye can see, offered in exchange for a bow. Christ tells him to be gone. He does not refuse to be King, leader, and priest. He refuses a throne that is purchased by worshiping evil. There is nothing we can hand Him that He cannot already do. What He will not do is take our agency away and rule us like slaves. That is the opposite of Herod. A historian from that period said it was safer to be Herod’s pig than his son, which is what power looks like when it has no covenant on it.
 
+
+![Ivan Kramskoy, Christ in the Wilderness, 1872. A seated figure of Christ in a barren landscape.](images/ChristInTheDesert.jpg)
+
+*Ivan Kramskoy, Christ in the Wilderness, 1872. Public domain.*
+
+
 ## The Grand Inquisitor
 
 In *The Brothers Karamazov*, Ivan Karamazov tells his brother Alyosha a story that turns those three answers inside out. Ivan is brilliant and angry at human suffering. Alyosha is training to be a monk. In Ivan’s parable, Christ comes back to earth and the Grand Inquisitor arrests Him. The Inquisitor says people are too weak for the freedom Christ gave them. They need bread first, then obedience that makes them dependent. They need miracles because they cannot believe without a show. They need an authority that removes the anxiety of choosing. The church, the Inquisitor says, has given them that, and that is why Christ has to be locked up. The scene ends with Christ kissing him after He is told that He would be executed tomorrow. The Inquisitor opens the cell door and leaves without a word, which puts the choice back where it belongs.
@@ -42,7 +48,3 @@ Dostoyevsky, F. (2002). *The brothers Karamazov* (R. Pevear & L. Volokhonsky, Tr
 
 The Church of Jesus Christ of Latter-day Saints. (2013). Matthew 4. In *The Holy Bible*. https://www.churchofjesuschrist.org/study/scriptures/nt/matt/4
 
-
-![Ivan Kramskoy, Christ in the Wilderness, 1872. A seated figure of Christ in a barren landscape.](images/ChristInTheDesert.jpg)
-
-*Ivan Kramskoy, Christ in the Wilderness, 1872. Public domain.*
