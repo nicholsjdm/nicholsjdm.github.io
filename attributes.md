@@ -4,7 +4,11 @@ title: Attributes and Warning Signs
 
 # Christlike attributes and warning signs
 
-This page is what I will use to finish the portfolio. I keep coming back to Matthew 4 because it is the clearest picture I have of the kind of king I am supposed to follow, and because it names the same temptations that show up in technical work if I am not paying attention.
+I keep coming back to Matthew 4 because it is the clearest picture I have of the kind of king I am supposed to follow, and because it names the same temptations that show up in technical work if I am not paying attention.
+
+![Ivan Kramskoy, Christ in the Wilderness, 1872. A seated figure of Christ in a barren landscape.](images/ChristInTheDesert.jpg)
+
+*Ivan Kramskoy, Christ in the Wilderness, 1872. Public domain.*
 
 ## The wilderness
 
@@ -15,11 +19,6 @@ The first is food after forty days of fasting. Christ answers that man shall not
 The second is the high point of the temple in Jerusalem. Satan tells Him to throw Himself down so the angels will catch Him, and everyone will have proof that the Father loves Him. Christ answers that you do not put the Lord your God to the test. If I put myself in foolish, avoidable danger to force a reaction out of someone I love, I am not showing faith. I am demanding evidence. That is true with God, and it is true between people. Israel did this constantly. They wanted another sign instead of trusting the One who was already with them.
 
 The third is a high place and all the kingdoms as far as the eye can see, offered in exchange for a bow. Christ tells him to be gone. He does not refuse to be King, leader, and priest. He refuses a throne that is purchased by worshiping evil. There is nothing we can hand Him that He cannot already do. What He will not do is take our agency away and rule us like slaves. That is the opposite of Herod. A historian from that period said it was safer to be Herod’s pig than his son, which is what power looks like when it has no covenant on it.
-
-
-![Ivan Kramskoy, Christ in the Wilderness, 1872. A seated figure of Christ in a barren landscape.](images/ChristInTheDesert.jpg)
-
-*Ivan Kramskoy, Christ in the Wilderness, 1872. Public domain.*
 
 
 ## The Grand Inquisitor
