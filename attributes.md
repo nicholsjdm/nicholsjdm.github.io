@@ -41,3 +41,8 @@ When I notice myself drifting, the version of “be gone” is specific for me. 
 Dostoyevsky, F. (2002). *The brothers Karamazov* (R. Pevear & L. Volokhonsky, Trans.). Farrar, Straus and Giroux. (Original work published 1880)
 
 The Church of Jesus Christ of Latter-day Saints. (2013). Matthew 4. In *The Holy Bible*. https://www.churchofjesuschrist.org/study/scriptures/nt/matt/4
+
+
+![Ivan Kramskoy, Christ in the Wilderness, 1872. A seated figure of Christ in a barren landscape.](images/ChristInTheDesert.jpg)
+
+*Ivan Kramskoy, Christ in the Wilderness, 1872. Public domain.*
