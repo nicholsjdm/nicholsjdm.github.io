@@ -48,6 +48,32 @@ This approach is better for everyone because seconds matter. It can be the diffe
 After this case I knew a playbook had to be created. It is how those technical steps and these principles are passed to the team, so we are better, faster, and more consistent under stress, and so we serve the client instead of our own curiosity.
 
 
+## What this taught me about the field (Week 5)
+
+Incident response should follow two rules:
+1. Learn enough to stop the attacker.
+2. Do not violate the victim’s privacy to do it.
+
+Privacy in IT is the same risk on a quieter day. As technicians, we hold mail, files, logs, and access to admin controls because the job requires it. That access is not ownership.
+
+There are case studies that show the cost. Health plans and clinics keep showing up in breach notices. DentaQuest was one of the large health-data incidents in 2026. Education was hit when attackers went after Canvas, a system that already holds a huge number of students (TechCrunch, 2026). Those stories are not only “hackers are busy.” They are what happens when access is wide, vendors sit in the middle, and nobody treats other people’s records as sacred. The machine I worked was a smaller version of the same problem.
+
+The experience made that lesson concrete. A live device and a keylog are just the loud version of permissions, admin accounts, ticket notes, and AI tools that can summarize a mailbox. The ethical problem is rarely “should I commit a crime?” It is more like “do I need to keep looking because I can, because I am curious, or because it will make me look thorough?”
+
+How I will handle the next incident:
+- Contain when the risk to people outweighs the value of more telemetry.
+- Collect only what the incident and the customer’s request require.
+- Tell the customer what I am doing.
+- Do not use one client’s indicator of compromise as a free pass into other client tenants.
+- Do not put private data in a public sandbox for testing purposes.
+- Ask when I do not know. Time pressure is not permission.
+
+As I continue to gain experience and skill in the field, the real work is deciding what we refuse to take advantage of.
+
+
 ## References
 
 National Institute of Standards and Technology. (2012). *Computer security incident handling guide* (SP 800-61 Rev. 2). https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final
+
+TechCrunch. (2026, September 15). Leaks, data breaches, and ransom notes: The worst hacks of 2026 so far. https://techcrunch.com/2026/09/15/the-worst-hacks-and-breaches-of-2026-so-far/
+
