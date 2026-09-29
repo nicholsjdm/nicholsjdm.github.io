@@ -4,7 +4,7 @@ title: Portfolio Review (Week 5)
 
 # Review of the portfolio
 
-This is the pass I am using to finish the site in order to read it comprehensively rather than separate parts.
+This is the review I am using to finish the site so all sections read comprehensively as one story.
 
 ## Portfolio Content
 
