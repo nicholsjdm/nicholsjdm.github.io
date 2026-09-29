@@ -34,5 +34,5 @@ Resume and skills are the tools and experience I have gained throughout this deg
 
 ## Remaining Items:
 
-- Usability report on the site, including the painting on the attributes page.
-- A mental-map page so faith and the job are drawn as one picture, not two columns.
+- Usability report on the site.
+- A mental-map page so faith and the job are drawn as one picture.
