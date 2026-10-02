@@ -2,7 +2,7 @@
 title: Mental Map
 ---
 
-# Mental map
+# Mental Map
 
 This is my mental map for Week 5. 
 
