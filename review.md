@@ -8,8 +8,9 @@ This is the review I am using to finish the site so all sections read comprehens
 
 ## Portfolio Content
 
-**Professional Growth:** Home, resume, skills, projects, playbook refinement, usability (in progress).  
-**Spiritual Progression:** principles, attributes and warning signs, ethical dilemma, reflection.
+**Home**
+**Professional Growth:** Resume, skills, projects, playbook refinement, portfolio review, usability testing and enhancements.  
+**Spiritual Progression:** principles, ethical dilemma, reflection, attributes and warning signs, mental map.
 
 The through-line is the same personal mission statement I put on the home page, “protect agency and reduce harm.” 
 Projects demonstrate how I’ve used the technical skills I have developed. 
@@ -30,9 +31,6 @@ The playbook is the procedure that came out of those choices.
 Attributes name the temptations in life and in tech. 
 Principles list my personal honor code; truth over verdict, consecrated skill, power under covenant. 
 Reflection is how I track my spiritual growing process and why I trust I can take the next risk. 
+Mental map illustrates my insights of how my faith integrates with my professional life.  
 Resume and skills are the tools and experience I have gained throughout this degree program and my employment journey.
-
-## Remaining Items:
-
-- Usability report on the site.
-- A mental-map page so faith and the job are drawn as one picture.
+The usability page illustrates my technical ability and revision when working on this project based on feedback from myself and others. 
