@@ -17,12 +17,13 @@ Projects prove skill. Principles and the ethical write-ups prove how I decide. I
 - [Reflections on Faith and Tech](reflection.md)
 - [Ethical dilemma](ethics.md)
 - [Attributes and warning signs](attributes.md)
-- [Portfolio review](review.md)
+- [Mental map](map.md)
+
 
 **Professional Growth:**
 - [Resume](resume.md)
 - [Skills and certifications](skills.md)
 - [Projects](projects.md)
 - [Playbook refinement](refinement.md)
+- [Portfolio review](review.md)
 - [Usability testing and enhancements](usability.md)
-- [Mental Map](map.md)
