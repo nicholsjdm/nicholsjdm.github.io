@@ -28,5 +28,5 @@ Projects prove skill. Principles and the ethical write-ups prove how I decide. I
 - [Playbook refinement](refinement.md)
 - [Portfolio review](review.md)
 - [Usability testing and enhancements](usability.md)
-- [Action plan for future personal development](plan.md)
+- [Action plan for the future](plan.md)
 
