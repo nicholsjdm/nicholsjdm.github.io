@@ -4,7 +4,7 @@ title: Goals and What Changed
 
 # Alignment with my initial goals
 
-In Week 1 I wrote three goals for this course. They still hold and what changed is that I stopped treating them like a new project I had to invent.
+In Week 1, I wrote three goals for this course. They still hold and what changed over time is that I stopped treating them like a new project I had to invent.
 
 ## What I said in Week 1
 
