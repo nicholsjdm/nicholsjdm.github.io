@@ -18,7 +18,7 @@ Projects prove skill. Principles and the ethical write-ups prove how I decide. I
 - [Ethical dilemma](ethics.md)
 - [Attributes and warning signs](attributes.md)
 - [Mental map](map.md)
-- [Reflection on this capstone journey](goals.md)
+- [Reflection on the capstone journey](goals.md)
 
 
 **Professional Growth:**
