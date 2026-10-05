@@ -6,6 +6,10 @@ title: Spiritual Principles
 
 These three principles are the foundation of this portfolio. They come from fire investigation, MSP incident response, Ensign coursework, and scripture. I use them when a ticket is ugly and when I am tempted to rush.
 
+![Close-up of a rope with several strands twisted into one](images/rope.jpg)
+
+*Rope as one cord from several strands. The image for doctrine, principle, and practice in Bednar, “Gather Together in One All Things in Christ” (2018). Photo: Wikimedia Commons, SuperMacro Rope.*
+
 ## 1. Truth over verdict
 
 I report what the evidence shows. I do not decide guilt because I am angry, tired, or sure I already know. Fire investigation was origin and cause, not a story I liked. Digital forensics is the same. Christ brings justice. My job is to reveal the facts.
@@ -29,9 +33,6 @@ D&C 104 says, we are stewards, not owners. Luke 6 reminds us to build a house on
 
 3 Nephi 13:19–22 talks about treasure in heaven. This portfolio, the job, and the certs are tools. They are not the treasure, Christ is.
 
-![Close-up of a rope with several strands twisted into one](images/rope.jpg)
-
-*Rope as one cord from several strands. The image for doctrine, principle, and practice in Bednar, “Gather Together in One All Things in Christ” (2018). Photo: Wikimedia Commons, SuperMacro Rope.*
 
 ## Materials (list, then why)
 
