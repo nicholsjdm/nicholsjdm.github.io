@@ -6,7 +6,7 @@ title: Home
 
 MSP support and cybersecurity. Finishing a BS in Information Technology at Ensign College.
 
-**Protect agency and reduce harm.**
+**Mission Statement: Protect agency and reduce harm.**
 
 Projects prove skill. Principles and the ethical write-ups prove how I decide. I am the same person on a ticket and in the rest of my life.
 
