@@ -4,6 +4,10 @@ title: Ethical Dilemma
 
 # Isolate or keep watching
 
+![A nineteenth-century balance scale](images/balance.jpg)
+
+*A balance scale, about 1850. The dilemma was which side weighs more: more telemetry, or the people on the machine. Wikimedia Commons.*
+
 ## The situation
 
 In August 2026 at my MSP job, a workstation had software that looked like a backup tool. It was a remote-access agent with a keylogger talking to a command-and-control server. It started with a phishing email that looked like DocuSign.
