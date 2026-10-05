@@ -9,10 +9,14 @@ MSP support and cybersecurity. Finishing a BS in Information Technology at Ensig
 **Mission Statement: Protect agency and reduce harm.**
 
 The aim of this site is to share how I serve others using the skills I have developed and the ethical mindset behind what I do and will not do.
+
 I am the same person on a ticket and in the rest of my life.
 
-I came from fire investigation into IT. I respond to phishing, malware, and account compromise at work. I hold CompTIA A+, Network+, Security+, and CySA+. 
+I came from fire investigation into IT. I am an MSP specialist who responds to phishing, malware, and account compromise at work. I hold CompTIA A+, Network+, Security+, and CySA+. 
+
 Fire investigation is where that started. Origin and cause is not the story I prefer but what the scene supports. Cybersecurity is the same habit on a different scene. 
+
+My discipleship goals are to tell the truth over my verdict, consecrate my skills to serve others and not myself, and hold my power under covenant so I do not abuse my privileges.
 
 **Spiritual Progression:**
 - [Spiritual principles](principles.md)
