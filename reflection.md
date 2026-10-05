@@ -18,4 +18,4 @@ The quiet hour that produced this page is the same work as isolating a host earl
 
 ![Gutenberg Bible, Lenox Copy, New York Public Library](images/bible.jpg)
 
-*Gutenberg Bible, Lenox Copy, New York Public Library, 2009. Wikimedia Commons. Scripture is the habit I go back to when the work gets loud.*
+*Gutenberg Bible, Lenox Copy, New York Public Library, 2009. Wikimedia Commons. Scripture is the habit I go back to when I face challenges.*
