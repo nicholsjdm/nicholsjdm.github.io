@@ -16,7 +16,7 @@ Isolate immediately if there is unknown foreign C2, a keylogger or possible PII/
 Collect Stage 2 (Volatile Evidence) first only if the network edge already blocked the path (DNS or IP) and a supervisor agrees to wait minutes, not hours.
 
 ### Where evidence goes
-`C:\IR_...` on the host is temporary. Zip and hash go to the approved share. Hash the copy, record who moved it, and delete the working copy on the endpoint. Read/Write permissions for IR techs on that ticket and the supervisor only.
+C:\ IR_... on the host is temporary. Zip and hash go to the approved share. Hash the copy, record who moved it, and delete the working copy on the endpoint. Read/Write permissions for IR techs on that ticket and the supervisor only.
 
 ### Other clients
 A hash from Client A is not permission to browse Client B. Supervisor approval and a ticket on that customer first. Use MSP tools for network-wide threat hunt instead. 
