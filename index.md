@@ -13,6 +13,7 @@ Projects prove skill. Principles and the ethical write-ups prove how I decide. I
 I came from fire investigation into IT. I respond to phishing, malware, and account compromise at work. I hold CompTIA A+, Network+, Security+, and CySA+. 
 
 Fire investigation is where that started. Origin and cause is not the story I prefer but what the scene supports. Cybersecurity is the same habit on a different scene. 
+
 The aim on both sides of this site is to tell the truth about what happened using the skills I have developed and the ethical mindset behind what I will do and what I will not do.
 
 **Spiritual Progression:**
