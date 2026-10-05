@@ -1,8 +1,8 @@
 ---
-title: Week 5 Portfolio Review 
+title: Portfolio Review (Week 5)
 ---
 
-# Review of the portfolio
+# Review of the portfolio - Week 5
 
 This is the review I am using to finish the site so all sections read comprehensively as one story.
 
