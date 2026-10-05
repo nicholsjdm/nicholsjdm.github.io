@@ -29,6 +29,10 @@ D&C 104 says, we are stewards, not owners. Luke 6 reminds us to build a house on
 
 3 Nephi 13:19–22 talks about treasure in heaven. This portfolio, the job, and the certs are tools. They are not the treasure, Christ is.
 
+![Close-up of a rope with several strands twisted into one](images/rope.jpg)
+
+*Rope as one cord from several strands. The image for doctrine, principle, and practice in Bednar, “Gather Together in One All Things in Christ” (2018). Photo: Wikimedia Commons, SuperMacro Rope.*
+
 ## Materials (list, then why)
 
 - Doctrine and Covenants 58:27–28 — agency; I get to choose real work for this capstone project.
