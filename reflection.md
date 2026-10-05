@@ -15,3 +15,7 @@ That is how I connect my spiritual growth to my professional life: the same conf
 
 Elder Bednar’s image of strands becoming one rope is the point. Doctrine, principle, and practice are not three lives. They are one person. 
 The quiet hour that produced this page is the same work as isolating a host early or writing a playbook other people can follow. 
+
+![Gutenberg Bible, Lenox Copy, New York Public Library](images/bible.jpg)
+
+*Gutenberg Bible, Lenox Copy, New York Public Library, 2009. Wikimedia Commons. Scripture is the habit I go back to when the work gets loud.*
