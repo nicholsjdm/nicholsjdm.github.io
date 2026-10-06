@@ -25,5 +25,8 @@ I kept the full playbook off the public site because a public collection script 
 ## Impact
 A reader can go from section to section quickly and easily. The phone check confirmed the pages still read on mobile devices. Accessibility is basic**:** such as real headings, real links, alt text on the painting. If I add more images they will get the same treatment.
 
-## Next pass
-I’ve been thinking of changing my online portfolio to a dark mode theme to not strain the eyes of my readers. 
+## Later changes
+On 5 October 2026 I switched the site to a dark theme after a classmate said the gray intro text was hard to read. 
+Body text is off-white on a dark background so the contrast goes up, not down. 
+
+I also added one image each on Principles, Ethics, Reflection, and Goals, with alt text and a caption, so the long pages are not a wall of text.
