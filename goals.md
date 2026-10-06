@@ -6,7 +6,7 @@ title: Goals and What Changed
 
 In Week 1, I wrote three goals for this course. They still hold and what changed over time is that I stopped treating them like a new project I had to invent.
 
-![A handheld compass](images/compass.jpg)
+![A handheld compass](images/Compass.jpg)
 
 *The Week 1 goals did not get replaced. They got a direction. Photo: Wikimedia Commons, Compass, 10 August 2026.*
 
