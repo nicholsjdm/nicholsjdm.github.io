@@ -6,6 +6,10 @@ title: Goals and What Changed
 
 In Week 1, I wrote three goals for this course. They still hold and what changed over time is that I stopped treating them like a new project I had to invent.
 
+![A handheld compass](images/compass.jpg)
+
+*The Week 1 goals did not get replaced. They got a direction. Photo: Wikimedia Commons, Compass, 10 August 2026.*
+
 ## What I said in Week 1
 
 I would finish a professional ePortfolio by Week 6 with a resume, a home-lab write-up, one sanitized incident-response case, and a skills page. I would put one redacted case in it and say what I refused to assume. I would name three spiritual principles and return to them in hard moments: truth over verdict, consecrated skill, and power under covenant.
