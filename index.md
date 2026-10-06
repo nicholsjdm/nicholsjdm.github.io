@@ -35,4 +35,5 @@ My discipleship goals are to tell the truth over my verdict, consecrate my skill
 - [Portfolio review](review.md)
 - [Usability testing and enhancements](usability.md)
 - [Action plan for the future](plan.md)
+- [Peer reviews](peers.md)
 
