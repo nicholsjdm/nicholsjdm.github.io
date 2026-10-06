@@ -4,7 +4,7 @@ title: Peer Reviews
 
 # Peer review report (Week 6)
 
-Initials used to protect privacy.
+Student initials used to protect privacy.
 
 ## Week 4
 
