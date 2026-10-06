@@ -10,7 +10,7 @@ Student initials used to protect privacy.
 
 I reviewed WC’s Windows Server and Active Directory project. I told him the lab proof was real and least privilege was the right point, and I asked for one before-and-after on an OU or folder ACL.
 
-Dario Gallardo reviewed my playbook. He asked when to isolate versus collect, where the evidence zip goes, what approval a hunt of another client needs, a test log, and a stage result. I put those in playbook version 1.4 and on the refinement page. I did not publish the full playbook.
+DG reviewed my playbook. He asked when to isolate versus collect, where the evidence zip goes, what approval a hunt of another client needs, a test log, and a stage result. I put those in playbook version 1.4 and on the refinement page. I did not publish the full playbook.
 
 ## Week 6, review I gave
 
